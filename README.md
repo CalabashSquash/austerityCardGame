@@ -18,9 +18,9 @@ Austerity is a game in which computer "algorithms" verse eachother  Therefore, y
 ##### The hub process (austerity) runs as follows:
 1. Begin reading the deck file.
     Each card in the deck file has the following features:
-        - Cost of each colour token to purchase (number of each colour is always a non-negative integer)
-        - Number of points the card is worth (always a non-negative integer)
-        - Colour, used for discounts on all future card purchases
+    - Cost of each colour token to purchase (number of each colour is always a non-negative integer)
+    - Number of points the card is worth (always a non-negative integer)
+    - Colour, used for discounts on all future card purchases
 2. After processing the deck file, set up other details about the game, including:
     - Amount of tokens of each colour in their piles
     - The amount of points required to win the game
